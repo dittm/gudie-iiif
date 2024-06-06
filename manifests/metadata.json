@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://gams-staging.uni-graz.at/gamsdev/dittmann/iiif/manifests/MS_Thr_248-0.json",
+    "@type": "sc:Manifest",
+    "label": "Gumpenhuber, Philippe, approximately 1706-1770. Répertoire de tous les spectacles qui ont été donné[s] au Théâtre[s] de la ville : manuscript, [1758-1759, 1761, 1763] / recueilli par Philippe Gumpenhuber. MS Thr 248-248.3. Houghton Library, Harvard University, Cambridge, Mass.",
+    "description": "This manuscript, compiled by Philippe Gumpenhuber, contains a repertoire of all the spectacles performed in Vienna during the years 1758-1759, 1761, and 1763. It is held at Houghton Library, Harvard University.",
+    "license": "http://nrs.harvard.edu/urn-3:hul.ois:hlviewerterms",
+    "logo": "https://iiif.lib.harvard.edu/static/manifests/harvard_logo.jpg"
+}
